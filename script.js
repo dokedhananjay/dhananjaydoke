@@ -1,4 +1,2 @@
-function ()
-{
-var alert=("bocha");
-}
+ alert=("bocha");
+
