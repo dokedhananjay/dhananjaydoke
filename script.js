@@ -1,4 +1,4 @@
 function ()
 {
-alert=("bocha")
+var alert=("bocha");
 }
