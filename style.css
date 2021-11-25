@@ -61,8 +61,10 @@ input[type="checkbox"]{
 @media (max-width: 920px) {
   nav .menu-btn i{
     display: block;}
-    #admin{width:50pxpx;}
-  
+   
+  @media (max-width: 350px){ 
+     #admin{width:50pxpx;}
+  }
   #click:checked ~ .menu-btn i:before{
     content: "\f00d";
   }
