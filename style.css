@@ -17,7 +17,7 @@ nav{
   flex-wrap: wrap;
 }
 nav .logo{
-  color: 
+  color:#fff; 
   font-size: 35px;
   font-weight: 600;
 }
